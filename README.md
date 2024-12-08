@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Chandrashekhar Saw  
 
 - 🔭 **I’m a Full-Stack Developer** passionate about building efficient web applications.  
-- 👀 **Tech Interests:** Laravel, ReactJS, Python, and exploring new technologies.  
-- 🌱 **Currently Learning:** ReactJS  
+- 👀 **Tech Interests:** Laravel, ReactJS, NodeJS, Python, and exploring new technologies.  
+- 🌱 **Currently Learning:** Python 
 - 💬 **Let’s Collaborate:** Open to working on Laravel-based projects.  
 - 📫 **Reach Me At:** ace.cs99@gmail.com  
 
