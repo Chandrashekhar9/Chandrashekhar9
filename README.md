@@ -1,15 +1,21 @@
-### 👋 Hi, I'm Chandra Shekhar
+<h1 align="center">Hi 👋, I'm Chandra Shekhar</h1>
+<h3 align="center">🚀 Full-Stack Developer | Laravel & MERN Stack | Python & AI Enthusiast | Open Source Contributor</h3>
 
-I'm a passionate full-stack developer working mainly with Laravel and the MERN stack. Currently learning Python and exploring AI & DevOps tools.
+---
 
-- 🔭 I’m working on building scalable tools with Laravel + React
-- 🌱 I’m learning Docker, GitHub Actions, and Python automation
-- 💬 Ask me about web apps, REST APIs, or Git tricks
-- 👯 I’m open to collaborating on open-source Laravel tools
-- 📫 How to reach me: chandrashekhar@neuralcode.in
+### 🧑‍💻 About Me
 
+- 💼 Full-stack developer with 4+ years of experience building scalable and maintainable web applications
+- 🌱 Currently learning **Python**, **AI**, and **DevOps** tools like Docker & GitHub Actions
+- 🛠️ Focused on **Laravel**, **React**, **MongoDB**, **Node.js**, **MySQL**, and **RESTful APIs**
+- 🧠 Active open-source contributor – aiming for **1 micro-contribution every month**
+- ✨ Passionate about clean code, reusable components, and system design
 
-<!---
-Chandrashekhar9/Chandrashekhar9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔧 Tech Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-FC3A00?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js]
