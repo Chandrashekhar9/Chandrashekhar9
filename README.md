@@ -48,6 +48,6 @@
 
 ### 📫 Let’s Connect
 
-- 🌐 Website: [neuralcode.in](https://neuralcode.in)
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/chandrashekhar09)
-- Email: chandrashekhar@neuralcode.in
+- Website:   [neuralcode.in](https://neuralcode.in)
+- LinkedIn:  [linkedin.com/in/chandrashekhar09](https://linkedin.com/in/chandrashekhar09)
+- Email:     chandrashekhar@neuralcode.in
